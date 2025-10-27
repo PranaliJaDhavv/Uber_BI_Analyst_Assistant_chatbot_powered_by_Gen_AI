@@ -1,2 +1,9 @@
 streamlit
-openai
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+transformers
+sentence-transformers
+groq
