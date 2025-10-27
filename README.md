@@ -10,7 +10,7 @@ AI-powered business intelligence chatbot for analyzing Uber ride reviews.
 - ⭐ Rating distribution analysis
 
 ## Live Demo
-[Try it here](https://uberbianalystassistant-o23lrcjqpei.streamlit.app)
+[Try it here](https://uberbianalystassistantchatbot-o23lrcjqpei.streamlit.app)
 
 ## Tech Stack
 - Streamlit
