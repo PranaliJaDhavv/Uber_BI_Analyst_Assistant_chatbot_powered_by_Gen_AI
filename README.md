@@ -1,19 +1,30 @@
-# 💬 Chatbot template
+# 🚗 Uber BI Analyst Assistant
 
-A simple Streamlit app that shows how to build a chatbot using OpenAI's GPT-3.5.
+AI-powered business intelligence chatbot for analyzing Uber ride reviews.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chatbot-template.streamlit.app/)
+## Features
+- 🤖 AI-powered insights using Groq API
+- 📊 Interactive visualizations (sentiment analysis, trends, heatmaps)
+- 📈 Time series analysis
+- 🎯 Topic clustering with keywords
+- ⭐ Rating distribution analysis
 
-### How to run it on your own machine
+## Live Demo
+[Try it here](https://uberbianalystassistantchatbot-o23lrcjqpei.streamlit.app)
 
-1. Install the requirements
+## Tech Stack
+- Streamlit
+- Python
+- Groq API (LLaMA 3.3 70B)
+- Scikit-learn
+- Pandas
+- Matplotlib/Seaborn
 
-   ```
-   $ pip install -r requirements.txt
-   ```
+## Setup
+1. Clone the repository
+2. Install dependencies: `pip install -r requirements.txt`
+3. Run: `streamlit run dashboard_app.py`
+4. Enter your Groq API key
 
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+## Data
+Uber reviews dataset from Kaggle with sentiment analysis and clustering.
