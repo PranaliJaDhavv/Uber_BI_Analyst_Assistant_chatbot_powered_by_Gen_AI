@@ -210,7 +210,7 @@ Provide a clear, concise, and data-driven answer."""
 # =========================
 
 st.set_page_config(
-    page_title="Uber Feedback & Insights Dashboard",
+    page_title="Uber Business Analyst Assistant Powered by Gen AI",
     layout="wide",
     page_icon="🚗"
 )
@@ -223,7 +223,7 @@ except:
 st.markdown(
     """
     <h1 style='text-align: center; color: #000000;'>
-        🤖 Uber Feedback & Insights Dashboard
+        🤖 Uber Business Analyst Assistant Powered by Gen AI
     </h1>
     <p style='text-align: center; font-size: 18px;'>
         Powered by AI • Sentiment Analysis • Trends & Visualization
