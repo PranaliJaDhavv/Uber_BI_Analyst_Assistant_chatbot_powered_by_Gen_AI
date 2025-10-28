@@ -223,7 +223,7 @@ except:
 st.markdown(
     """
     <h1 style='text-align: center; color: #000000;'>
-        🤖 
+        🤖 Uber Business Analyst Assitant Powered by Gen A
 st.set_page_config(
     page_title="Uber Business Analyst Assitant Powered by Gen AI",
     layout="wide",
